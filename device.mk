@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
 
 # Recovery services
 PRODUCT_PACKAGES += \
-
     android.hardware.health-service.example_recovery \
     servicemanager \
     snapuserd
